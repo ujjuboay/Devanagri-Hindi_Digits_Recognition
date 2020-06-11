@@ -30,4 +30,3 @@ https://drive.google.com/drive/folders/1bGjf5IIJ793t8PSbeHBqnO8yRbNZQrlz?usp=sha
 https://archive.ics.uci.edu/ml/machine-learning-databases/00389/ for dataset containing digits with vowels and consonants.  
 
 So you can use this and modified as you want and make your lives better in the world.
-
